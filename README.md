@@ -1,5 +1,5 @@
 # dashdot
-Dashdot - Monitorizar - Docker compose
+Dashdot - Monitorizar sistema - Docker compose
 
 Ver en "localhost:8200"
 
